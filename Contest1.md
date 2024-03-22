@@ -1,0 +1,1 @@
+Cho dãy $n$ gồm 
